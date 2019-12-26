@@ -1,0 +1,19 @@
+{
+  "name": "basic",
+  "version": "12.14.0",
+  "description": "My Web App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubousky/intro-to-node.js.git"
+  },
+  "author": "Jakub Parcheta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubousky/intro-to-node.js/issues"
+  },
+  "homepage": "https://github.com/kubousky/intro-to-node.js#readme"
+}
